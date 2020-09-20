@@ -1,2 +1,2 @@
 # MSDS422
-Class work repository
+Class work repository for MSDS 422
